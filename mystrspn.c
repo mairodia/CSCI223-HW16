@@ -6,7 +6,7 @@
 // Class: CSCI 223F | TR 4:30PM
 // Description:
 //      This takes two string arguments as input and returns an int that
-//      represents the length of prefix in the first tring that consists
+//      represents the length of prefix in the first string that consists
 //      solely of chars contained in the second string.
 // =========================================================================
 #include <stdio.h>
